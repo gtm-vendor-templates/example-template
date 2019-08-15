@@ -28,7 +28,7 @@ ___TEMPLATE_PARAMETERS___
     "simpleValueType": true,
     "name": "tag_id",
     "type": "TEXT",
-    "valueHint": "shopping.smarterclick.com"
+    "valueHint": "example.com"
   }
 ]
 
@@ -51,6 +51,10 @@ ___WEB_PERMISSIONS___
               {
                 "type": 1,
                 "string": "https://*.smct.co/*"
+              },
+              {
+                "type": 1,
+                "string": "https://smct.co/*"
               }
             ]
           }
