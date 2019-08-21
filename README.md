@@ -3,7 +3,7 @@
 ## Creating your template repository
 
 1.  Make sure you have a github account.
-1.  Create a new public or private repository using the
+1.  Create a new public repository using the
     [example template](https://github.com/gtm-vendor-templates/example-template).
 1.  Follow steps for [importing your template](#importing-your-template).
 
