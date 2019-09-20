@@ -1,0 +1,5 @@
+homepage: "https://www.smarterclick.co.uk",
+documentation: "https://docs.smarterclick.com/books/google-tag-manager/page/smarter-click---google-tag-manager-integration",
+versions:
+  - sha: f9422dc
+    changeNotes: Initial Version
