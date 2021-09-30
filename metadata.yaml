@@ -1,5 +1,7 @@
-homepage: "https://www.smarterclick.co.uk"
-documentation: "https://docs.smarterclick.com/books/google-tag-manager/page/smarter-click---google-tag-manager-integration"
+homepage: "https://intent.ly"
+documentation: "https://intent.ly/en/add-intently-to-google-tag-manager/"
 versions:
+  - sha: d293156a58ff60626e5c16d5913e7cbba2b170c1
+    changeNotes: Updated Branding
   - sha: a3c13dbb9b213091fbb47db83c540502cd8b6664
     changeNotes: Initial Version
